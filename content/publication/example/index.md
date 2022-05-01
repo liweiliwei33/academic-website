@@ -12,6 +12,7 @@ authors:
   - Guangyong Chen
   - Long Hu
   - Zhengdao Li
+  - Hwang Kai
 
 # Author notes (optional)
 author_notes:
