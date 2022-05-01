@@ -9,10 +9,6 @@ authors:
   - admin
   - Xianzhi Li
   - Min Chen
-  - Guangyong Chen
-  - Long Hu
-  - Zhengdao Li
-  - Hwang Kai
 
 # Author notes (optional)
 author_notes:
@@ -24,7 +20,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-02T00:00:00Z'
+publishDate: '2022-05-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
