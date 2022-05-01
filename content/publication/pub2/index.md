@@ -18,7 +18,7 @@ authors:
   #- 'Equal contribution'
 
 date: '2019-06-01T00:00:00Z'
-doi: ''
+doi: '/10.1016/j.inffus.2019.06.019'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-06-01T00:00:00Z'
@@ -33,10 +33,10 @@ publication_types: ['2']
 publication: In *Information Fusion*
 publication_short: In *Information Fusion*
 
-abstract: Sign language recognition and translation first uses a recognition module to generate glosses from sign language videos and then employs a translation module to translate glosses into spoken sentences. Most existing works focus on the recognition step, while paying less attention to sign language translation. In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
+abstract: This paper reviews the development background and hot spots of the data-driven multimodal emotion information fusion. Considering the real-time mental health monitoring system, the current development of multimodal emotion data sets, the multimodal features extraction, including the EEG, speech, expression, text features, and multimodal fusion strategies and recognition methods are discussed and summarized in detail. The main objective of this work is to present a clear explanation of the scientific problems and future research directions in the multimodal information fusion for data-driven emotion recognition field.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
+summary: Multimodal emotion data sets, features extraction, fusion strategies are discussed.
 
 tags: []
 
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1566253519301381?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''
