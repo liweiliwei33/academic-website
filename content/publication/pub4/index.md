@@ -1,5 +1,5 @@
 ---
-title: 'A dynamic service migration mechanism in edge cognitive computing'
+title: 'Opportunistic computing offloading in edge clouds'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
