@@ -7,9 +7,6 @@ title: 'Explore More Guidance: A Task-aware Instruction Network for Sign Languag
 authors:
   - Yong Cao
   - admin
-  - Robert Ford
-  - Xianzhi Li
-  - et al.
 
 # Author notes (optional)
 author_notes:
