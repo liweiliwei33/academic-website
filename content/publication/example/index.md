@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Yong Cao
   - admin
-  - Robert Ford
 
 # Author notes (optional)
 author_notes:
