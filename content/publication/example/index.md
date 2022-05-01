@@ -8,9 +8,15 @@ authors:
   - Yong Cao
   - admin
   - Xianzhi Li
+  - Min Chen
+  - Guangyong Chen
+  - Long Hu
+  - Zhengdao Li
+  - Hwang Kai
 
 # Author notes (optional)
 author_notes:
+  - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
 
@@ -18,7 +24,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-05-02T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +39,7 @@ publication_short: In *NAACL 2022*
 abstract: Sign language recognition and translation first uses a recognition module to generate glosses from sign language videos and then employs a translation module to translate glosses into spoken sentences. Most existing works focus on the recognition step, while paying less attention to sign language translation. In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
 
 tags: []
 
