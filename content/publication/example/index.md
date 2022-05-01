@@ -51,8 +51,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2204.05953.pdf'
+url_code: 'https://github.com/yongcaoplus/tin-slt'
 url_dataset: ''
 url_poster: ''
 url_project: ''
