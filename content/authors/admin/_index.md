@@ -46,13 +46,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/liweiliwei33
-    
-#  - icon: linkedin
- #   icon_pack: fab
- #   link: https://www.linkedin.com/
-#  - icon: twitter
- #   icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
