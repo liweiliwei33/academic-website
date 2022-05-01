@@ -1,35 +1,37 @@
 ---
-title: 'Explore More Guidance: n'
+title: 'A snapshot research and implementation of multimodal information fusion for data-driven emotion recognition'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yong Cao
+  - Yingying Jiang
   - admin
-  - Xianzhi Li
+  - M. Shamim Hossain
+  - Min Chen
+  - et al
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+ # - 'Equal contribution'
+  #- 'Equal contribution'
+  #- 'Equal contribution'
 
 date: '2022-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2019-06-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *NAACL 2022*
-publication_short: In *NAACL 2022*
+publication: In *Information Fusion*
+publication_short: In *Information Fusion*
 
 abstract: Sign language recognition and translation first uses a recognition module to generate glosses from sign language videos and then employs a translation module to translate glosses into spoken sentences. Most existing works focus on the recognition step, while paying less attention to sign language translation. In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
 
@@ -39,7 +41,7 @@ summary: In this work, we propose a task-aware instruction network, namely TIN-S
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
