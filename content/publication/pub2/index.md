@@ -17,7 +17,7 @@ authors:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2022-05-01T00:00:00Z'
+date: '2019-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -48,8 +48,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2204.05953.pdf'
-url_code: 'https://github.com/yongcaoplus/tin-slt'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
