@@ -11,7 +11,7 @@ role: Lecturer of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: NanChang University
-  - url: 
+  - url: https://ncu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include dialogue system, nature language generation and casual inference for multimodal data, e.g., images, text, etc.
