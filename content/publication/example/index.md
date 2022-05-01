@@ -10,6 +10,8 @@ authors:
   - Xianzhi Li
   - Min Chen
   - Guangyong Chen
+  - Long Hu
+  - Zhengdao Li
 
 # Author notes (optional)
 author_notes:
