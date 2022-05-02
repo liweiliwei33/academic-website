@@ -29,12 +29,6 @@ experience:
     location: Nanchang, China
     date_start: '2020-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
   - title: Research Assistance
     company: The Chinese University of Hong Kong, ShenZhen
@@ -43,7 +37,6 @@ experience:
     location: Shenzhen, China
     date_start: '2019-10-01'
     date_end: '2020-10-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
