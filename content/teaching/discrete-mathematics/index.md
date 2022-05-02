@@ -1,24 +1,14 @@
 ---
-title: 'Edge cognitive computing based smart healthcare system'
+title: 'Discrete Mathematics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Min Chen
   - admin
-  - Yixue Hao
-  - Yongfeng Qian
-  - Iztok Humar
-
-# Author notes (optional)
-#author_notes:
- # - 'Equal contribution'
-  #- 'Equal contribution'
-  #- 'Equal contribution'
 
 date: '2018-03-01T00:00:00Z'
-doi: '10.1016/j.future.2018.03.054'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2018-03-01T00:00:00Z'
@@ -33,7 +23,7 @@ publication_types: ['2']
 publication: In *Journal of Parallel and Distributed Computing*
 publication_short: In *Journal of Parallel and Distributed Computing*
 
-abstract: In this paper, we propose the Edge-Cognitive-Computing-based (ECC-based) smart-healthcare system. This system is able to monitor and analyze the physical health of users using cognitive computing. It also adjusts the computing resource allocation of the whole edge computing network comprehensively according to the health-risk grade of each user. 
+abstract: 
 # Summary. An optional shortened abstract.
 summary: Multimodal emotion data sets, features extraction, fusion strategies are discussed.
 
@@ -68,23 +58,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Welcome to the courese!
