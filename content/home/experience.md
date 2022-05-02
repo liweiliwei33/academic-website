@@ -25,7 +25,7 @@ experience:
   - title: Lecturer
     company: Nanchang University
     company_url: ''
-    company_logo: org-NCU
+    company_logo: org-GC
     location: Nanchang
     date_start: '2020-10-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistance
     company: The Chinese University of Hong Kong, Shenzhen
     company_url: ''
-    company_logo: org-CUHKSZ
+    company_logo: org-X
     location: Shenzhen
     date_start: '2019-10-01'
     date_end: '2020-10-31'
