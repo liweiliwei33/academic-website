@@ -1,30 +1,90 @@
 ---
-title: Discrete Mathematics
+title: 'Edge cognitive computing based smart healthcare system'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - Min Chen
+  - admin
+  - Yixue Hao
+  - Yongfeng Qian
+  - Iztok Humar
 
-authors: []
+# Author notes (optional)
+#author_notes:
+ # - 'Equal contribution'
+  #- 'Equal contribution'
+  #- 'Equal contribution'
+
+date: '2018-03-01T00:00:00Z'
+doi: '10.1016/j.future.2018.03.054'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2018-03-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Journal of Parallel and Distributed Computing*
+publication_short: In *Journal of Parallel and Distributed Computing*
+
+abstract: In this paper, we propose the Edge-Cognitive-Computing-based (ECC-based) smart-healthcare system. This system is able to monitor and analyze the physical health of users using cognitive computing. It also adjusts the computing resource allocation of the whole edge computing network comprehensively according to the health-risk grade of each user. 
+# Summary. An optional shortened abstract.
+summary: Multimodal emotion data sets, features extraction, fusion strategies are discussed.
+
 tags: []
 
-# Is this a featured talk? (true/false)
+# Display this page in the Featured widget?
 featured: false
 
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Slides can be added in a few ways:
+{{% callout note %}}
+Create your slides in Markdown - click the _Slides_ button to check out the example.
+{{% /callout %}}
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
