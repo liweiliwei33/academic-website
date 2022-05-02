@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: liwei.cs@ncu.edu.cn
+ # email: liwei.cs@ncu.edu.cn
 
 design:
   columns: '2'
