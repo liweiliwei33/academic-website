@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wei Li's Website # Website name
+title: Wei Li (李伟) # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
