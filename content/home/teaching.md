@@ -1,5 +1,5 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
@@ -9,30 +9,30 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Teaching'
-subtitle:
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+title: Teaching
+subtitle: ''
 
 content:
-  # Filter content to display
+  # Filter on criteria
   filters:
     folders:
       - teaching
-   
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
   offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  # Choose a listing view
-  view: 1
-  # Choose how many columns the section has. Valid values: '1' or '2'.
+  # Choose a view for the listings:
+  view: compact
   columns: '2'
 ---
+
