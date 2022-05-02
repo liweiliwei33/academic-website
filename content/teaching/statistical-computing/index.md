@@ -11,7 +11,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: This course will introduce some classic statistical computing methods, such as Newton method for solving nonlinear equations, stochastic simulation methods, such as simulated annealing algorithm, genetic algorithm, EM, MCMC, Bootstrap, etc.
 
-tags: []
+tags: [Spring 2021]
 
 # Display this page in the Featured widget?
 featured: false
