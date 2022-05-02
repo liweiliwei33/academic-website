@@ -9,7 +9,7 @@ authors:
 
 abstract: 
 # Summary. An optional shortened abstract.
-summary: This course will introduce some classic statistical computing methods, such as Newton method for solving nonlinear equations, stochastic simulation methods, such as simulated annealing algorithm, genetic algorithm, EM, MCMC, Bootstrap, etc.
+summary: This course will teach the basic knowledge of algorithm design and analysis, focusing on four classical algorithm design strategies of traversal, divide and conquer, greed and dynamic programming, and classical algorithm problems such as sorting, selection, search, graph traversal, small spanning tree and short path.
 
 tags: [Fall 2021]
 
