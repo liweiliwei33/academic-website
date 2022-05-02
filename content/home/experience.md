@@ -26,8 +26,8 @@ experience:
     company: Nanchang University
     company_url: ''
     company_logo: org-ncu
-    location: California
-    date_start: '2021-01-01'
+    location: Nanchang, China
+    date_start: '2020-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistance
+    company: The Chinese University of Hong Kong, ShenZhen
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: org-cuhk
+    location: Shenzhen, China
+    date_start: '2019-10-01'
+    date_end: '2020-10-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
