@@ -31,11 +31,9 @@ item:
   - date_end: ''
     date_start: '2021-01-01'
     title: Statistical Computing
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - date_end: '2020-12-21'
     date_start: '2020-07-01'
-    description: 'Algorithm Design and Analysis'
-    title: 'Object-Oriented Programming in R'
+    title: 'Algorithm Design and Analysis'
     url: ''
 
 design:
