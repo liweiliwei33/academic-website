@@ -21,13 +21,13 @@ featured: false
 Welcome to the course!
 
 Contents:
-- Lecture 1 Prepare Knowledge {{< staticref "uploads/algorithm/Lecture 1 准备知识.ppt" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 2 Mathematics Foundations {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 3 Sorting Algorithem {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 4 Selecting Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 5 Searching Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 6 From Brute Force to Divide and Conquer {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 7 Graph Traversal {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 1 Prepare Knowledge {{< staticref "uploads/algorithm/Lecture 1 准备知识.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 2 Mathematics Foundations {{< staticref "uploads/algorithm/Lecture 2 数学基础.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 3 Sorting Algorithem {{< staticref "uploads/algorithm/Lecture 3 排序.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 4 Selecting Algorithm {{< staticref "uploads/algorithm/Lecture 4 选择.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 5 Searching Algorithm {{< staticref "uploads/algorithm/Lecture 5 查找.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 6 From Brute Force to Divide and Conquer {{< staticref "uploads/algorithm/Lecture 6 从蛮力到分治.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 7 Graph Traversal {{< staticref "uploads/algorithm/Lecture 7 图遍历.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 8 Greedy Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 9 Dynamic Programming {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 10 Backtracking and Branch-and-Bound Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
