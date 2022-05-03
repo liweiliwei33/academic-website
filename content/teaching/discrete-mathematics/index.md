@@ -27,7 +27,7 @@ image:
 Welcome to the course!
 
 Contents:
-- Introduction [[slides]](引用.pdf)
+- Introduction [[slides]](引言.pdf)
 - CH01 Logic and Proofs [[slides]]()
 - CH02 Basic Structures: Sets, Functions, Sequences [[slides]]()
 - CH03 Relations [[slides]]()
