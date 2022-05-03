@@ -11,7 +11,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: Multimodal emotion data sets, features extraction, fusion strategies are discussed.
 
-tags: []
+tags: [Spring 2022]
 
 # Display this page in the Featured widget?
 featured: false
