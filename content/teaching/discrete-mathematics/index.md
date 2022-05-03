@@ -25,3 +25,12 @@ image:
 ---
 
 Welcome to the course!
+
+Contents:
+- Introduction [slide]()
+- CH01 Logic and Proofs [slides]()
+- CH02 Basic Structures: Sets, Functions, Sequences [slides]()
+- CH03 Relations [slide]()
+- CH04 Advanced Counting Techniques [slide]()
+- CH05 Graphs [slide]()
+- CH06 Trees [slide]()
