@@ -21,7 +21,7 @@ featured: false
 Welcome to the course!
 
 Contents:
-- Lecture 1 Prepare Knowledge {{< staticref "uploads/algorithm/Lecture 1 准备知识.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 1 Prepare Knowledge {{< staticref "uploads/algorithm/Lecture 1 准备知识.ppt" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 2 Mathematics Foundations {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 3 Sorting Algorithem {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 4 Selecting Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
