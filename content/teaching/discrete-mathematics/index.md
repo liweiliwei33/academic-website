@@ -27,10 +27,10 @@ image:
 Welcome to the course!
 
 Contents:
-- Introduction {{< staticref "uploads/discrete-mathematics/引言.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- CH01 Logic and Proofs [[slides]]()
-- CH02 Basic Structures: Sets, Functions, Sequences [[slides]]()
-- CH03 Relations [[slides]]()
-- CH04 Advanced Counting Techniques [[slides]]()
-- CH05 Graphs [[slides]]()
-- CH06 Trees [[slides]]()
+- Lecture 1 Introduction {{< staticref "uploads/discrete-mathematics/引言.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 2 Logic and Proofs {{< staticref "uploads/discrete-mathematics/第一章 逻辑和证明.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 3 Basic Structures: Sets, Functions, Sequences {{< staticref "uploads/discrete-mathematics/第二章 基本结构.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 4 Relations {{< staticref "uploads/discrete-mathematics/第九章 关系.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 5 Advanced Counting Techniques {{< staticref "uploads/discrete-mathematics/引言.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 6 Graphs {{< staticref "uploads/discrete-mathematics/引言.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 7 Trees {{< staticref "uploads/discrete-mathematics/引言.pdf" "newtab" >}}[slides]{{< /staticref >}}.
