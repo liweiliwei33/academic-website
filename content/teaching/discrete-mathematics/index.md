@@ -9,7 +9,7 @@ authors:
 
 abstract: 
 # Summary. An optional shortened abstract.
-summary: Multimodal emotion data sets, features extraction, fusion strategies are discussed.
+summary: This course will systematically introduce mathematical logic, sets and relations, graph theory, as well as the basic concepts, algorithms, theorems and proof methods in algebraic system and boolean algebra.
 
 tags: [Spring 2022]
 
