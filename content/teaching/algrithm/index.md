@@ -25,3 +25,15 @@ image:
 ---
 
 Welcome to the course!
+
+Contents:
+- Lecture 1 Prepare Knowledge {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 2 Mathematics Foundations {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 3 Sorting Algorithem {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 4 Selecting Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 5 Searching Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 6 From Brute Force to Divide and Conquer {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 7 Graph Traversal {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 8 Greedy Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 9 Dynamic Programming {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 10 Backtracking and Branch-and-bound Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
