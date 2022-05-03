@@ -27,10 +27,10 @@ image:
 Welcome to the course!
 
 Contents:
-- Introduction [slide]()
-- CH01 Logic and Proofs [slides]()
-- CH02 Basic Structures: Sets, Functions, Sequences [slides]()
-- CH03 Relations [slide]()
-- CH04 Advanced Counting Techniques [slide]()
-- CH05 Graphs [slide]()
-- CH06 Trees [slide]()
+- Introduction [[slides]](引用.pdf)
+- CH01 Logic and Proofs [[slides]]()
+- CH02 Basic Structures: Sets, Functions, Sequences [[slides]]()
+- CH03 Relations [[slides]]()
+- CH04 Advanced Counting Techniques [[slides]]()
+- CH05 Graphs [[slides]]()
+- CH06 Trees [[slides]]()
