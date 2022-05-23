@@ -28,6 +28,6 @@ Contents:
 - Lecture 5 Searching Algorithm {{< staticref "uploads/algorithm/Lecture 5 查找.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 6 From Brute Force to Divide and Conquer {{< staticref "uploads/algorithm/Lecture 6 从蛮力到分治.pdf" "newtab" >}}[slides]{{< /staticref >}}.
 - Lecture 7 Graph Traversal {{< staticref "uploads/algorithm/Lecture 7 图遍历.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 8 Greedy Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 9 Dynamic Programming {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
-- Lecture 10 Backtracking and Branch-and-Bound Algorithm {{< staticref "uploads/algorithm/Lecture1.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 8 Greedy Algorithm {{< staticref "uploads/algorithm/Lecture 8 图优化-贪心.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 9 Dynamic Programming {{< staticref "uploads/algorithm/Lecture 9 图优化-动态规划.pdf" "newtab" >}}[slides]{{< /staticref >}}.
+- Lecture 10 Backtracking and Branch-and-Bound Algorithm {{< staticref "uploads/algorithm/Lecture 10 回溯与分支界限法.pdf" "newtab" >}}[slides]{{< /staticref >}}.
