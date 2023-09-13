@@ -13,11 +13,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 
-  -
-  -
   - 'corresponding author'
-  - 
+    
 date: '2022-09-01T00:00:00Z'
 doi: ''
 
