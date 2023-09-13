@@ -19,11 +19,11 @@ author_notes:
   - 'Corresponding author'
  
 
-date: '2022-05-01T00:00:00Z'
+date: '2022-09-24T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2022-09-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2204.05953.pdf'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-17120-8_5'
 url_code: 'https://github.com/jrmjrm01/SenDA4NER-NLPCC2022'
 url_dataset: ''
 url_poster: ''
