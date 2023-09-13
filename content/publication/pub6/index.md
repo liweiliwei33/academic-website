@@ -13,9 +13,11 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
+  - 
+  -
+  -
   - 'Corresponding author'
-  - 'Equal contribution'
+ 
 
 date: '2022-05-01T00:00:00Z'
 doi: ''
