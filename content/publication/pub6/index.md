@@ -1,23 +1,20 @@
 ---
-title: 'Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation'
+title: 'How Effective and Robust is Sentence-Level Data Augmentation for Named Entity Recognition?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Yong Cao
+  - Runmin Jiang
+  - Xin Zhang
+  - Jiyue Jiang
   - admin
-  - Xianzhi Li
-  - Min Chen
-  - Guangyong Chen
-  - Long Hu
-  - Zhengdao Li
-  - Hwang Kai
+  - Yuhao Wang
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Corresponding author'
   - 'Equal contribution'
 
 date: '2022-05-01T00:00:00Z'
@@ -33,18 +30,18 @@ publishDate: '2022-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *NAACL 2022*
-publication_short: In *NAACL 2022*
+publication: In *NLPCC 2022*
+publication_short: In *NLPCC 2022*
 
-abstract: Sign language recognition and translation first uses a recognition module to generate glosses from sign language videos and then employs a translation module to translate glosses into spoken sentences. Most existing works focus on the recognition step, while paying less attention to sign language translation. In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
+abstract:  Inspired by some mixup augmentations in computer vision, we proposed three sentence-level data augmentations including CMix, CombiMix, TextMosaic, and adapted them to the NER task. Through empirical experiments on three authoritative datasets (OntoNotes4,CoNLL03,OntoNotes5),we found that these methods will improve the effectiveness of the models if controlling the number of augmented samples.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we propose a task-aware instruction network, namely TIN-SLT, for sign language translation, by introducing the instruction module and the learning-based feature fuse strategy into a Transformer network.
+summary: In this work, we propose three sentence-level data augmentations including CMix, CombiMix, TextMosaic, and adapted them to the NER task.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -52,7 +49,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2204.05953.pdf'
-url_code: 'https://github.com/yongcaoplus/tin-slt'
+url_code: 'https://github.com/jrmjrm01/SenDA4NER-NLPCC2022'
 url_dataset: ''
 url_poster: ''
 url_project: ''
