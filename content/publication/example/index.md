@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2204.05953.pdf'
+url_pdf: 'https://aclanthology.org/2022.findings-naacl.205.pdf'
 url_code: 'https://github.com/yongcaoplus/tin-slt'
 url_dataset: ''
 url_poster: ''
