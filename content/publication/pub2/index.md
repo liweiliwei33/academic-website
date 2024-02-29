@@ -49,13 +49,13 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1566253519301381?via%3Dihub'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
