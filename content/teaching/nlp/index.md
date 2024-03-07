@@ -20,13 +20,8 @@ featured: false
 
 Welcome to the course!
 
-<table>
-  <tr>
-    <th>月份</th>
-    <th>储蓄</th>
-  </tr>
-  <tr>
-    <td>一月</td>
-    <td>￥3400</td>
-  </tr>
-</table>
+| Date | Topic |   |   |   |
+|------|-------|---|---|---|
+|      |       |   |   |   |
+|      |       |   |   |   |
+|      |       |   |   |   |
